@@ -95,3 +95,13 @@
     margin: 0 auto;
     font-size: 1.2rem ;
 }
+
+@media (max-width: 1000px) {
+    .form-page .service {
+        max-width: 40%;
+        margin: 0 auto;
+    }
+    .services-container {
+        margin-bottom: 1rem;
+    }
+}

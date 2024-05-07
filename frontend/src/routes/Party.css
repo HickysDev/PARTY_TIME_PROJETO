@@ -10,3 +10,10 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+@media (max-width: 1000px) {
+    .services-container .service {
+        max-width: 40%;
+        margin: 0 auto;
+    }
+}

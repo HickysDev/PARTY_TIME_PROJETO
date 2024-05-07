@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+conn.js
+request.rest
 node_modules
 dist
 dist-ssr

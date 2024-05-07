@@ -15,3 +15,9 @@
 #navbar ul {
     align-items: center;
 }
+
+@media (max-width: 1000px) {
+    .btn{
+        text-align: center;
+    }
+}
