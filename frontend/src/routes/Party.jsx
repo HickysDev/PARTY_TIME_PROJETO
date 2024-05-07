@@ -43,6 +43,7 @@ const handleDelete = async() => {
   return (
     <div className="party">
       <h1>{party.title}</h1>
+      <p>{party.description}</p>
       <div className="actions-container">
         <Link to={`/party/edit/${id}`} className="btn">Editar</Link>
         <button onClick={handleDelete} className="btn-secondary">Excluir</button>
