@@ -1,0 +1,17 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #7703FC;
+}
+
+#navbar h2 {
+    color: #7703FC;
+    font-weight: 900;
+}
+
+#navbar ul {
+    align-items: center;
+}
